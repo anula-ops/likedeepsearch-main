@@ -17,7 +17,7 @@ The integration of SerperDevTool with Together.AI models through a reasoning loo
 ## Installation Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nitish571/likedeepsearch.git
+   git clone https://github.com/anula-ops/likedeepsearch-main.git
    cd likedeepsearch
    ```
 
